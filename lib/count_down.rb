@@ -1,5 +1,5 @@
 current_value = 10 
-while current_value > 1 do 
+while current_value >= 1 do 
   puts current_value
   current_value -= 1 
 end
